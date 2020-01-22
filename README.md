@@ -1,6 +1,6 @@
 # FinDev Backend
 
-Projeto desenvolvido na Semana Omnistack 10.
+Projeto desenvolvido na Semana Omnistack 10 da Rocketseat.
 
 Backend da aplicação FinDev que tem por finalidade encontrar desenvolvedores por geolocalização.
 
